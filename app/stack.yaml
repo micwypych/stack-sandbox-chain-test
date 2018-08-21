@@ -1,8 +1,8 @@
 flags: {}
 packages:
-- '.'
+  - '.'
 extra-deps: []
 extra-package-dbs:
-    - ../lib1/.stack-work/install/x86_64-osx/ghc-7.10.2/7.10.2/pkgdb/
-    - ../lib2/.stack-work/install/x86_64-osx/ghc-7.10.2/7.10.2/pkgdb/
-resolver: ghc-7.10.2
+    - ../lib2/.stack-work/install/x86_64-linux/lts-12.7/8.4.3/pkgdb/
+    - ../lib1/.stack-work/install/x86_64-linux/lts-12.7/8.4.3/pkgdb/
+resolver: lts-12.7

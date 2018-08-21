@@ -10,7 +10,7 @@ executable app
   hs-source-dirs:      src/main/haskell
   build-depends:       base
                      , lib1 ==0.1.*
-                     , lib2 ==0.3
+                     , lib2 ==0.3.*
   default-language:    Haskell2010
 
 test-suite pdom-coedit-protocol-test

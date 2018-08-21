@@ -1,5 +1,5 @@
 name:                lib2
-version:             0.3
+version:             0.3.0.0
 author:              Daniel Vigovszky
 maintainer:          daniel.vigovszky@gmail.com
 build-type:          Simple
